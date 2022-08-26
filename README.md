@@ -7,3 +7,6 @@ Visit project with [GitHub HTML Preview](https://htmlpreview.github.io/?https://
 - Bulma
 - DOM manipulation
 - DOM events
+
+### mobile demo
+  <img src="https://github.com/miamija7/score-keeper-widget/blob/main/demo.gif" height="150"/>
